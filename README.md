@@ -43,7 +43,3 @@ Or just give them this repo url for download.
 > - 💬 **Join the [Telegram Discussion Group](https://t.me/+yhmMnY2DyNBmNDlh)** to participate in ongoing collaboration and connect with other contributors
 >
 > _Help build the comprehensive operational security standard for Web3 organizations._
-
-## License
-
-MIT - see [LICENSE](LICENSE)
