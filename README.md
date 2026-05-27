@@ -27,7 +27,6 @@ Web3 teams need security guidance at the moment they're working, not buried in a
 |-------|-------------|
 | [endpoint-threat-hunt](./endpoint-threat-hunt/) | Live threat hunting on macOS, Linux, and Windows using native OS tools only. Runs checks across 8 phases and produces a structured findings report. |
 | [w3os-compass](./w3os-compass/) | Web3 opsec triage. Researches an org from public sources, maps gaps to W3OS and SEAL standards, surfaces top 5 priorities, and recommends matching W3OSC tools. |
-| [skill-warden-action](https://github.com/W3OSC/skill-warden-action) | GitHub Action that scans AI skill repos for prompt injection, jailbreaks, token smuggling, and secret grabbing - uploads results to the GitHub Security tab via SARIF. |
 
 ## Usage
 
